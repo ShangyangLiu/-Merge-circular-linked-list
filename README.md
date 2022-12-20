@@ -1,2 +1,2 @@
-# Merge-circular-linked-list
-Merge circular linked list
+# Merge-circular-linked-lists
+Merge two circular linked lists
